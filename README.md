@@ -73,9 +73,11 @@
   - PCA
 
   - 
-    
+## 머신러닝
+### Classifier
+- [고객 이탈율 예측 모델](https://github.com/zzhining/ml_basic/blob/main/customer_sales.ipynb)
 
-## 딥러닝(Keras + TensorFlow)
+## 딥러닝(TensorFlow)
 
   - Dense
   - Conv1D
