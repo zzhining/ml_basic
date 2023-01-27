@@ -104,6 +104,11 @@
 
 ## 시계열 데이터
 
+##  기타 읽을 거리
+- [랜덤 시드란?](https://namu.wiki/w/%EC%8B%9C%EB%93%9C#s-3)
+- [random_state = 42의 비밀](https://ichi.pro/ko/random-state-42neun-mueos-ibnikka-237508473317227)
+- [머신러닝 빨리 배우는 방법](https://www.youtube.com/watch?v=432p379XXMw)
+  
 
 
 ## SIDE PROJECT
