@@ -73,7 +73,7 @@
   - PCA
 
   - 
-## 머신러닝
+## 머신러닝 예제
 ### Classifier
 - [고객 이탈율 예측 모델](https://github.com/zzhining/ml_basic/blob/main/customer_sales.ipynb)
 
