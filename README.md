@@ -79,16 +79,23 @@
 
 ## 머신러닝 예제
 
-### Data Preprocessing
+### Data Preprocessing / Feature Engineering
 - [스케일링 변환](https://github.com/zzhining/ml_basic/blob/main/scaler.ipynb)
+- [교차검증](https://github.com/zzhining/ml_basic/blob/main/cross_validation.ipynb)
 
 ### Classifier
+- **붓꽃 품종 예측 모델**: [[SKLETON]](https://github.com/zzhining/ml_basic/blob/main/classifier_iris_skeleton.ipynb),[[XGBm LGBM]](https://github.com/zzhining/ml_basic/blob/main/lgbm_xgb_iris.ipynb)
 - [고객 이탈율 예측 모델](https://github.com/zzhining/ml_basic/blob/main/customer_sales.ipynb)
 - [대졸자 이직 여부 분석 모델](https://github.com/zzhining/ml_basic/blob/main/classifier_goms_data.ipynb)
 - [타이타닉 생존자 예측 모델](https://github.com/zzhining/ml_basic/blob/main/classifier_titanic.ipynb)
 
 ### Regressor
 - **자전거 대여량 예측 모델**: [[CODE]](https://github.com/zzhining/ml_basic/blob/main/bike_sharing_demand.ipynb), [[SKELETON]](https://github.com/zzhining/ml_basic/blob/main/bike_sharing_demand_skeleton.ipynb)
+
+
+### Regressor
+- [붓꽃 품종 클러스터](https://github.com/zzhining/ml_basic/blob/main/kmeans_iris.ipynb)
+
 ## 딥러닝(TensorFlow)
 
   - Dense
