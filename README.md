@@ -73,6 +73,12 @@
   - PCA
 
   - 
+  
+## 파이썬 기초 연습문제
+- **numpy 연습**: [[SKELETON]](https://github.com/zzhining/ml_basic/blob/main/numpy_exercise_skeleton.ipynb)
+- **pandas 연습 - US Health Insurance Dataset** : [[SKELETON]](https://github.com/zzhining/ml_basic/blob/main/pandas_exercise_skeleton.ipynb),[[CODE]](https://github.com/zzhining/ml_basic/blob/main/pandas_exercise.ipynb)
+
+
 ## EDA 예제
 - [US Health Insurance Dataset](https://github.com/zzhining/ml_basic/blob/main/eda_insurance.ipynb)
 
@@ -84,7 +90,7 @@
 - [교차검증](https://github.com/zzhining/ml_basic/blob/main/cross_validation.ipynb)
 
 ### Classifier
-- **붓꽃 품종 예측 모델**: [[SKLETON]](https://github.com/zzhining/ml_basic/blob/main/classifier_iris_skeleton.ipynb),[[XGBm LGBM]](https://github.com/zzhining/ml_basic/blob/main/lgbm_xgb_iris.ipynb)
+- **붓꽃 품종 예측 모델**: [[SKLETON]](https://github.com/zzhining/ml_basic/blob/main/classifier_iris_skeleton.ipynb),[[XGB,LGBM]](https://github.com/zzhining/ml_basic/blob/main/lgbm_xgb_iris.ipynb)
 - [고객 이탈율 예측 모델](https://github.com/zzhining/ml_basic/blob/main/customer_sales.ipynb)
 - [대졸자 이직 여부 분석 모델](https://github.com/zzhining/ml_basic/blob/main/classifier_goms_data.ipynb)
 - [타이타닉 생존자 예측 모델](https://github.com/zzhining/ml_basic/blob/main/classifier_titanic.ipynb)
@@ -95,6 +101,8 @@
 
 ### Regressor
 - [붓꽃 품종 클러스터](https://github.com/zzhining/ml_basic/blob/main/kmeans_iris.ipynb)
+
+
 
 ## 딥러닝(TensorFlow)
 
