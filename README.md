@@ -22,7 +22,7 @@
 ## 데이터 처리 및 분석을 위한 파이썬
 - [NumPy](https://numpy.org/): Numerical Python, 다차원 배열을 사용하여 데이터를 연속된 메모리 블록에 저장하고, 일반적인 파이썬 자료형보다 더 적은 메모리를 사용하여 수치 연산 가능
 - [Pandas](https://pandas.pydata.org/): 데이터 조작을 용이하게 하기 위해 다차원배열에 인덱스를 지정한 자료구조를 정의하고,  정렬, 변환, 삭제 등을 할 수 있는 메서드를 제공
-  . [pydata-book github](https://github.com/wesm/pydata-book) :  "Python for Data Analysis, 3rd Edition" by Wes McKinney, published by O'Reilly 코드 리포지토
+  - [pydata-book github](https://github.com/wesm/pydata-book) :  "Python for Data Analysis, 3rd Edition" by Wes McKinney, published by O'Reilly 코드
 ## 데이터 수집
   - 개요
   - request
